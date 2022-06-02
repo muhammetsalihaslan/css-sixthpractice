@@ -9,4 +9,18 @@
 
 .container{
     position: relative;
+    display: inline-block;
+
+}
+
+.dropdown{
+    
+    position: absolute;
+    background-color:aqua;
+    margin-left: 5px;
+    width: 8rem;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: none;
 }
