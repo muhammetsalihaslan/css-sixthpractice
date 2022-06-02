@@ -24,3 +24,7 @@
     border-bottom-left-radius: 10px;
     display: none;
 }
+
+.container:hover .dropdown{
+   display:block;
+}
